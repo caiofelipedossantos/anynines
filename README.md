@@ -4,9 +4,9 @@ Projeto realizado com o objetivo de praticar a linguagem Ruby com o Framework Ra
 
 ### Ambiente
 
-* [Instalação](https://gorails.com/setup/ubuntu/18.10) - Ruby On Rails on Ubuntu
+* [Instalação](https://gorails.com/setup/ubuntu/18.10) - Ruby On Rails no Ubuntu
 
-* [Instalação](https://gorails.com/setup/windows/10) - Ruby On Rails on Windows 10
+* [Instalação](https://gorails.com/setup/windows/10) - Ruby On Rails no Windows 10
 
 ### Informações
 
@@ -20,7 +20,7 @@ Projeto realizado com o objetivo de praticar a linguagem Ruby com o Framework Ra
 
 
 ### Banco de Dados
-Altere o nome do bando de dado e os dados de acesso no arquivo database.yml na pasta config.
+Altere o nome do banco de dados e o usuário e senha de acesso no arquivo database.yml na pasta config.
 
 ### Tabelas
 ```sh
