@@ -1,2 +1,3 @@
-# anynines
-CRUD Basico usando Ruby com Rails
+# README
+
+CRUD Básico usando Ruby On Rails.
