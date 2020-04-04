@@ -1,6 +1,6 @@
 # CRUD Básica em Ruby On Rails
 
-Projeto realizado com o objetivo de praticar a linguagem Ruby com o Framework Rails.
+Projeto realizado com o objetivo de praticar a linguagem Ruby com o Framework Rails e Bootstrap 4.0.0.
 
 ### Ambiente
 
