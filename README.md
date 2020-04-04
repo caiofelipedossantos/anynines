@@ -1,4 +1,4 @@
-# CRUD Básica em Ruby On Rails
+# CRUD Básico em Ruby on Rails
 
 Projeto realizado com o objetivo de praticar a linguagem Ruby com o Framework Rails e Bootstrap 4.0.0.
 
@@ -16,6 +16,7 @@ Projeto realizado com o objetivo de praticar a linguagem Ruby com o Framework Ra
 * Git
 * Rails >= 6.0.2
 * MySQL
+* Bootstrap >= 4.0.0
 
 
 ### Banco de Dados
