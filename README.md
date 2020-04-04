@@ -1,24 +1,36 @@
-# README
+# CRUD Básica em Ruby On Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projeto realizado com o objetivo de praticar a linguagem Ruby com o Framework Rails.
 
-Things you may want to cover:
+### Ambiente
 
-* Ruby version
+* [Instalação](https://gorails.com/setup/ubuntu/18.10) - Ruby On Rails on Ubuntu
 
-* System dependencies
+* [Instalação](https://gorails.com/setup/windows/10) - Ruby On Rails on Windows 10
 
-* Configuration
+### Informações
 
-* Database creation
+* NodeJS => 12.16.1
+* Yarn => 1.22.4
+* Ruby >= 2.7.1
+* Git
+* Rails >= 6.0.2
+* MySQL
 
-* Database initialization
 
-* How to run the test suite
+### Banco de Dados
+Altere o nome do bando de dado e os dados de acesso no arquivo database.yml na pasta config.
 
-* Services (job queues, cache servers, search engines, etc.)
+### Tabelas
+```sh
+$ rake db:migrate
+```
+### Dependências
+```sh
+$ bundle install
+```
 
-* Deployment instructions
-
-* ...
+### Iniciando o Servidor <http://127.0.0.1:3000>
+```sh
+$ rails s
+```
